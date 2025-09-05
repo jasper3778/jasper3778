@@ -1,8 +1,6 @@
 ## Jasper Himpe
 
-![hello-world](https://github.com/user-attachments/assets/19f5de93-039a-4bdc-a569-65ca31a0bea8)
-
-
+![helloworld-programming](https://github.com/user-attachments/assets/667cf859-d678-48c0-9c27-facd0b5a5c2c)
 
 
 ## About me
