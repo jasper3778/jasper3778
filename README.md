@@ -14,13 +14,17 @@
 * **Email**(Personal): jasperhimpe2007@gmail.com
 ## Projects
 * **Bingo Game** - Jaaropdracht 5de jaar Campus VTI Waregem
-## History
-Campus College Waregem, 1-2, Economie <br />
-Campus VTI Waregem, 3, Elektrotechnieken <br />
-Campus Hemelvaart Waregem, 3-4, Taal en Communicatie <br />
-Campus VTI Waregem, 5-6, Applicatie en Databeheer <br />
+* **Pong C#** - Klasopdracht 5de jaar Campus VTI Waregem
 ## Skills
 * C#
 * Python
 * Html
 * Css
+## Work
+Okay Vichte (Current)
+Game-INN Waregem (2023)
+## History
+Campus College Waregem, 1-2, Economie <br />
+Campus VTI Waregem, 3, Elektrotechnieken <br />
+Campus Hemelvaart Waregem, 3-4, Taal en Communicatie <br />
+Campus VTI Waregem, 5-6, Applicatie en Databeheer <br />
