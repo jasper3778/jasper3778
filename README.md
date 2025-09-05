@@ -1,6 +1,8 @@
 ## Jasper Himpe
 
-https://tenor.com/nl/view/hello-world-seytonic-coding-hello-gif-10598764531210485569
+![hello-world-seytonic](https://github.com/user-attachments/assets/7cbf7d06-78f0-41de-9f81-8e955600a3df)
+
+
 Student at Campus VTI Waregem
 ## About me
 * **Name**: Jasper Himpe <br />
