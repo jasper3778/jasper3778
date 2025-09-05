@@ -3,7 +3,6 @@
 ![hello-world-seytonic](https://github.com/user-attachments/assets/7cbf7d06-78f0-41de-9f81-8e955600a3df)
 
 
-Student at Campus VTI Waregem
 ## About me
 * **Name**: Jasper Himpe <br />
 * **Age**: 17 <br />
