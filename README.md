@@ -6,6 +6,7 @@ Student at Campus VTI Waregem
 * **Location**: Waregem, West Flanders, Belguim <br />
 * **Education**: Applicatie en Databeheer (current)
 ## Contact
+* **Phone**: +32 0468 51 39 88
 * **Email**(School): jasper.himpe@sgsintpaulus.eu
 * **Email**(Personal): jasperhimpe2007@gmail.com
 ## History
