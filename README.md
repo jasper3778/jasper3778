@@ -5,6 +5,9 @@ Student at Campus VTI Waregem
 * **Age**: 17 <br />
 * **Location**: Waregem, West Flanders, Belguim <br />
 * **Education**: Applicatie en Databeheer (current)
+## Contact
+* **Email**(School): jasper.himpe@sgsintpaulus.eu
+* **Email**(Personal): jasperhimpe2007@gmail.com
 ## History
 Campus College Waregem, 1-2, Economie <br />
 Campus VTI Waregem, 3, Elektrotechnieken <br />
