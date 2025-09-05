@@ -1,6 +1,7 @@
 ## Jasper Himpe
 
-![hello-world-seytonic](https://github.com/user-attachments/assets/7cbf7d06-78f0-41de-9f81-8e955600a3df)
+![helloworld-programming](https://github.com/user-attachments/assets/c82d1b7f-4d15-4b3b-961a-9e2caedcfd27)
+
 
 
 ## About me
