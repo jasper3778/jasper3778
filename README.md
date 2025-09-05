@@ -9,6 +9,8 @@ Student at Campus VTI Waregem
 * **Phone**: +32 0468 51 39 88
 * **Email**(School): jasper.himpe@sgsintpaulus.eu
 * **Email**(Personal): jasperhimpe2007@gmail.com
+## Projects
+* **Bingo Game** - Jaaropdracht 5de jaar Campus VTI Waregem
 ## History
 Campus College Waregem, 1-2, Economie <br />
 Campus VTI Waregem, 3, Elektrotechnieken <br />
