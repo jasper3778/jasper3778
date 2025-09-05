@@ -21,7 +21,7 @@
 * Html
 * Css
 ## Work
-Okay Vichte (Current)
+Okay Vichte (Current) <br />
 Game-INN Waregem (2023)
 ## History
 Campus College Waregem, 1-2, Economie <br />
