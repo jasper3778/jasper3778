@@ -14,3 +14,8 @@ Campus College Waregem, 1-2, Economie <br />
 Campus VTI Waregem, 3, Elektrotechnieken <br />
 Campus Hemelvaart Waregem, 3-4, Taal en Communicatie <br />
 Campus VTI Waregem, 5-6, Applicatie en Databeheer <br />
+## Skills
+* C#
+* Python
+* Html
+* Css
