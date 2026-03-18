@@ -5,7 +5,7 @@
 
 ## About me 👤
 * **Name**: Jasper Himpe <br />
-* **Age**: 17 <br />
+* **Age**: 18 <br />
 * **Location**: Waregem, West Flanders, Belguim <br />
 * **Education**: Applicatie en Databeheer (current)
 ## Contact 📞
